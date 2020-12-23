@@ -1,7 +1,3 @@
----
-title: "README.md"
-output: html_document
----
 
 ### **Petrol Consumption Project**  
 
