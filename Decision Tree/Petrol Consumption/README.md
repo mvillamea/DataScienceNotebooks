@@ -8,9 +8,9 @@ output: html_document
 This repository has Macarena Villamea's submission for the coding challenge of the "Data Science-Foundations" bootcamp created by GreyCampus.  
 It has two files:  
 
-*  **$\color{red}{\text{petrol_consumption.csv:}}$** The original data set.  
+*  petrol_consumption.csv: The original data set.  
 
-*   **$\color{red}{\text{petrol_consumption.ipynb:}}$** The ipython notebook where is performed the analysis.  
+*  petrol_consumption.ipynb:The ipython notebook where is performed the analysis.  
 
 
 
