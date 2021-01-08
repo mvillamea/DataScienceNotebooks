@@ -6,7 +6,7 @@
 * DeepLearningHeartDisease.ipynb: 
   Implementing some models of artificial neural networks in order to predict a heart disease.
   
-## Decision Tree
+## Decision Tree - Random Forest
 * Petrol Consumption: 
   Implementing decision tree models in order to predict petrol consumption.
   
