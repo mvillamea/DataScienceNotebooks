@@ -1,5 +1,5 @@
 
-### **Petrol Consumption Project**  
+### **Petrol Consumption**  
 
 This folder has Macarena Villamea's submission for the coding challenge of the "Data Science-Foundations" bootcamp created by GreyCampus.  
 It has two files:  
