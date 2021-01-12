@@ -12,3 +12,7 @@
 * Succes of a Startup:
   Implementing decision tree and random forest models in order to predict the success of a Startup.
   
+ ## Exploratory Data Analysis
+* Docentes por función:
+  A brief exploratory data analysis on Argentinian teachers' job positions, based on a data set from 2014.
+  
