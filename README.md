@@ -17,3 +17,7 @@
   A brief exploratory data analysis on Argentinian teachers' job positions, based on a data set from 2014.
 * Python Para Todos - Proyecto Final:
   A brief exploratory data analysis based on two datasets about the Football World Cups.
+  
+## Logistic Regression
+* Predicción Cardiopatías:
+  Implementing an exploratory data analysis and a logistic regression model to predict a heart disease.
