@@ -21,3 +21,7 @@
 ## Logistic Regression
 * Predicción Cardiopatías:
   Implementing an exploratory data analysis and a logistic regression model to predict a heart disease.
+  
+## XGBoost
+* Fraud detection:
+  Implementing an exploratory data analysis and a XGBoost classification model to predict if a transaction is fraud related.
